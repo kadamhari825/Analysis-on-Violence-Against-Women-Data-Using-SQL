@@ -2,7 +2,7 @@
 
 No matter which part of the world you are living in Womens are marginlized there in past.So it becomes imperative to understand where and what lead atrocities to happen and if it is continues till date. In this notebook we are going to see whether we can generate valueble insights from date available for nearly two decades from 2000 to 2018.
 
-## Hypothesis to validate:
+## Objective:
 As quality eduaction impacts how we hold opnion about everything then it must be associated with education level and being misogynist. Along with that Men must be in mejority of occcations that they look down upon Women.
 
 
